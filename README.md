@@ -4,13 +4,14 @@
 <p align="center">꒰ঌㅤㅤ<a href="https://rentry.co/joostkleins">RENTRY</a>ㅤㅤ<a href="https://rentry.co/tkomtgoed">EXTENDED</a>ㅤㅤ<a href="https://portal.atabook.org/">ATABOOK</a>ㅤㅤ໒꒱
 <P align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v5uloyvwhloiiyan3b35ekvv5e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v5uloyvwhloiiyan3b35ekvv5e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
-  </a></P><p align="center">
+  </a></P>
+  
+  <div align="center">
 
 
-
-https://github.com/user-attachments/assets/5d53f3de-905f-4af1-ad08-6d80e2b729ce
-
+https://github.com/user-attachments/assets/b486478f-0272-425b-80c2-6310a7c87016
 
 
+</div>
 
 
