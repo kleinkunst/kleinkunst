@@ -5,4 +5,9 @@
 <P align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v5uloyvwhloiiyan3b35ekvv5e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v5uloyvwhloiiyan3b35ekvv5e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
   </a></P><p align="center">
-  <img src="https://files.catbox.moe/srviuh.jpg"></p>
+
+
+https://github.com/user-attachments/assets/ddcf1023-268f-44a2-877e-6f89da09bf52
+
+
+
